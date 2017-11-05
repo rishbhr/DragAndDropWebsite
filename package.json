@@ -1,0 +1,19 @@
+{
+  "name": "draganddropwebsite",
+  "version": "1.0.0",
+  "description": "A package to be utilized for Kimps",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishbhr/DragAndDropWebsite.git"
+  },
+  "author": "Carlos J Flores, Rishbh Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishbhr/DragAndDropWebsite/issues"
+  },
+  "homepage": "https://github.com/rishbhr/DragAndDropWebsite#readme"
+}
